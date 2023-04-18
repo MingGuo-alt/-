@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Bilibili C++ Project\AirplaneFire\AirplaneFire\main.cpp(37,27): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Bilibili C++ Project\AirplaneFire\AirplaneFire\main.cpp(383,14): warning C4101: “mess”: 未引用的局部变量
+  AirplaneFire.vcxproj -> D:\Bilibili C++ Project\AirplaneFire\x64\Debug\AirplaneFire.exe
